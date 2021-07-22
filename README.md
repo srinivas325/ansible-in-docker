@@ -1,4 +1,4 @@
-# ansible-in-docker
+# ansible-in-docker - Docker containers as target machines.
 # Ansible with Docker
 
 This project is a created for study purposes.
